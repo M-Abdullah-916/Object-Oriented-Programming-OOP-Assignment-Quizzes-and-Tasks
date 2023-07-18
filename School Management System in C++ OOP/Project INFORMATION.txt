@@ -1,0 +1,22 @@
+M.Abdullah                19F-0916     
+
+Information About Files:
+
+Admin.txt     file contains the username and password for administration.
+Courses.txt   file contains information about the courses approved by administration.
+
+Student.txt   file contains the username and password for students.
+Students.txt  file contains information about the students added by administration.
+
+Teacher.txt   file contains the username and passwords for teachers.
+Teachers.txt  file contains the information about teachers added by administration.
+
+
+Information About 3-File Structure:
+
+Main.cpp         file contains the code for main body of program.
+Definations.cpp  file contains the defination of all functions inside it.
+System.h         file is a header file which contains prototype of all functions and classes names.
+
+
+Regards : Team Kakashi
